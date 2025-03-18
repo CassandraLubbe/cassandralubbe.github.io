@@ -130,6 +130,8 @@ main aside ul li i {
 
 .home-content .home-img img {
     width: 100%;
+    position: relative;
+    z-index: 1;
 }
 
 .home-content p {
