@@ -78,6 +78,15 @@ main aside ul li i {
     height: 100%;
 }
 
+.swiper-container {
+    overflow: hidden;
+}
+
+.swiper-wrapper {
+    display: flex;
+    overflow: hidden;
+}
+
 .home-content {
     display: flex;
     align-items: center;
