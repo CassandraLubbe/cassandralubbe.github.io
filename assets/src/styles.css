@@ -82,11 +82,6 @@ main aside ul li i {
     overflow: hidden;
 }
 
-.swiper-wrapper {
-    display: flex;
-    overflow: hidden;
-}
-
 .home-content {
     display: flex;
     align-items: center;

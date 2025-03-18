@@ -3,8 +3,8 @@ var swiper = new Swiper(".mySwiper", {
     allowTouchMove: false,
     grapCursor: false,
     cubeEffect: {
-        shadow: false,
-        slideShadow: false,
+        shadow: true,
+        slideShadow: true,
         shadowOffset: 20,
         shadowScale: 0.94,
         slidesPerView: 1,
